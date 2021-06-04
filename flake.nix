@@ -12,7 +12,7 @@
 
           src = fetchurl {
             url = "http://cdsarc.u-strasbg.fr/viz-bin/nph-Cat/tar.gz?bincats/${pname}_${version}";
-            sha256 = "sha256-1kfrOgeCoGKjwZGgl3oIs9biakdOihHtlfQy16hMAt4=";
+            sha256 = "sha256-SC9Wxwj3r0cfBxFQL7Nc5sbRyNDNyJ1wwahzUdjgyZ4=";
           };
 
           unpackPhase = ''
